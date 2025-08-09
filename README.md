@@ -1,5 +1,10 @@
 # Jumping Spyder
 
+# Hackathon Category
+ Consumer Apps, DeFi
+
+---
+
 ## 🚀 Overview
 **Jumping Spyder** is a JavaScript-powered Telegram bot for **Solana** traders.  
 It delivers **real-time sentiment signals**, token tracking, and premium features unlocked via **on-chain SOL balance checks**.  
@@ -7,7 +12,6 @@ It delivers **real-time sentiment signals**, token tracking, and premium feature
 Built with [Telegraf](https://telegraf.js.org/) + Solana wallet integration, it’s designed for speed, simplicity, and trader-focused insights.  
 
 ---
-**Hackathon Category**: Consumer Apps, DeFi
 
 ## ✨ Features
 
