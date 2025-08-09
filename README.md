@@ -7,6 +7,7 @@ It delivers **real-time sentiment signals**, token tracking, and premium feature
 Built with [Telegraf](https://telegraf.js.org/) + Solana wallet integration, it’s designed for speed, simplicity, and trader-focused insights.  
 
 ---
+**Hackathon Category**: Consumer Apps, DeFi
 
 ## ✨ Features
 
